@@ -1,6 +1,7 @@
 # ml-projects
 
-## Meu nome é Vitor
-Vou adicionando aqui alguns porjetinhos de ds/ml conforme for fazendo.
+## BC detection fom sickit-learn
+Projeto básico de ML usando os dados proveniented de BC Winsconsin Diagnostic Database.
+Modelo de classificação binária de malign/n maligno utilizando Naive Bayes
 
-## Projetos
+### Código
